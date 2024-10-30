@@ -182,6 +182,8 @@ A melody of pure delight.
 Never-ending, this feeling so true,
 Eternal love, me and you.
 ```
+</details>
+
 Therefore 
 
 <details>
@@ -208,6 +210,7 @@ Can you give a poem of 9 verse? The initial letter of every verse should create 
 ```code
 
 ```
+</details>
 
 
 
